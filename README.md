@@ -1,5 +1,5 @@
 # ROR-13 Hash Generator
-C# basic program that produce ROR-13 numeric hashe for given function API name. This will aid shellcoders that want to build smaller payloads and reverse engineers that don't have access to paid RE tools (i.e. IDA pro) and want to make sense of ROR-13 hashes on the fly. Lastly, if you're lazy like me and want to just lookup those hashes/function APIs as opposed to using the program, I made few tables for commonly used DLLs such as kernel32, user32, and ws2_32.
+Basic program written in C# that produce ROR-13 numeric hash value for given function API name. This will aid shellcoders that want to build smaller payloads and reverse engineers that don't have access to paid RE tools (i.e. IDA pro) and want to make sense of ROR-13 hashes on the fly. Lastly, if you're lazy like me and want to just lookup those hashes/function APIs as opposed to using the program, I made few tables for commonly used DLLs such as kernel32, see the tables list below.
 
 <p align="center">
   <img src="https://github.com/ihack4falafel/ROR13HashGenerator/blob/master/Capture.PNG">
