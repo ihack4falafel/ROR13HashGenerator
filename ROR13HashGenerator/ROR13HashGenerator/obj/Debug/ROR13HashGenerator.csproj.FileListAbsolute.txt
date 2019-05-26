@@ -1,0 +1,6 @@
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\bin\Debug\ROR13HashGenerator.exe.config
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\bin\Debug\ROR13HashGenerator.exe
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\bin\Debug\ROR13HashGenerator.pdb
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\obj\Debug\ROR13HashGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\obj\Debug\ROR13HashGenerator.exe
+C:\Users\hjawad\source\repos\ROR13HashGenerator\ROR13HashGenerator\obj\Debug\ROR13HashGenerator.pdb
